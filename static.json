@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "gu_aiying"
+      "X-Author": "gu_aiying",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
